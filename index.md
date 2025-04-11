@@ -1,4 +1,4 @@
 ---
-title: Welcome to Chaos bookery
+title: Welcome to Chaos Bookery
 ---
 
